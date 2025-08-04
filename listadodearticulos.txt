@@ -1,0 +1,15 @@
+Articulos para repasar:
+
+1-https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/What_is_JavaScript
+2-https://www.aluracursos.com/blog/guia-de-javascript
+3-https://www.aluracursos.com/blog/como-utilizar-operadores-de-comparacion-en-javascript
+4-https://www.toolshero.com/
+5-https://github.com/alura-es-cursos/js-curso/blob/main/2.md
+6-https://www.aluracursos.com/blog/centrar-un-elemento-con-css
+7-https://www.aluracursos.com/blog/html-css-javascript-cuales-son-las-diferencias
+8-https://www.aluracursos.com/blog/como-evitar-errores-en-git
+9-https://www.aluracursos.com/blog/iniciando-repositorio-con-git
+10-https://www.aluracursos.com/blog/guia-sobre-como-instalar-git-en-diferentes-sistemas-operativos
+11-https://www.aluracursos.com/blog/empezar-a-programar-es-con-javascript
+12-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Lexical_grammar
+13-https://www.youtube.com/live/Qdd5NP1q8UM
